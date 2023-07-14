@@ -1,5 +1,4 @@
 import { storage } from "@/appwrite";
-import exp from "constants";
 
 
 const getUrl = async (image: Image) => {
