@@ -1,3 +1,7 @@
+![Trello-Clone](https://github.com/shamun-khatri/trello-clone/assets/100433320/4d8b1437-c44a-4f15-a31a-a7b455f262f4)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
